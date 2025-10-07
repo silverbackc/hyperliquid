@@ -1,0 +1,1 @@
+Mini-project collecting main HyperLiquid BTC perp data with QuestDB storage.
