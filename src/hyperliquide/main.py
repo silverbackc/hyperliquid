@@ -8,7 +8,7 @@ from trades.trades import collect_trades
 from funding.historical import get_historical_funding
 
 # Polling duration
-DURATION = 6
+DURATION = 600
 
 
 async def main():
