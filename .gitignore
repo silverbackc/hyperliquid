@@ -1,2 +1,4 @@
 *.json
+.env.dev
 __pycache__
+.cursorignore
